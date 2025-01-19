@@ -1,5 +1,5 @@
 ## 코틀린 인증 관련 코드
-코틀린, 스프링부트, 스프링 시큐리티를 이용한 인증 관련 코드입니다.  
+코틀린, 스프링부트, 스프링 시큐리티, Jwt Token을 이용한 인증 관련 코드입니다.  
 spring security 의 기존 filter를 override 하여 인증을 처리하는 방식으로 제작됬습니다.
 
 ## Dependencies & Versions
